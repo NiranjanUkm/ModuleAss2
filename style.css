@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+img.rounded-circle {
+    width: 100%;
+    max-width: 250px;
+}
+
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: #f8f9fa;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+.navbar h2{
+    margin-left: 1rem;
+    margin-top: 10px;
+    text-decoration: none;
+}
